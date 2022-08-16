@@ -1,0 +1,6 @@
+VARIABLES: Las variables son palabras claves impuestas por nosotros que nos permiten sentenciar información.
+Strings: son expresiones, que forman oraciones o expresan una acción.
+Function: son funciones donde se convina las sentencias (Statements) y las expreciones para lograr un hilo de algo especifico.
+Declaraciones :se usan para saber si una pauta es lo que dice que es o no. PJ: se usan if('si' 2 > 3 ) , else if(o si 4 < 8) , else (o si 3 > 5).Pueden haber correctas como no. 
+Valores booleanos.
+Se pueden definir como un true (verdadero)o false (falso). 
