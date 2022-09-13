@@ -1,0 +1,1 @@
+Array:Es la identidad de cada posicion (strings , numeros, undefined, etc.) y te da la facilidad para trabajar con su ubicacion/valor y determinar alguna accion o resolucion de algo en especifico.
